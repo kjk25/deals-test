@@ -1,0 +1,9 @@
+{
+  "folders": [
+    { "path": "." }
+  ],
+  "settings": {
+    "platformio-ide.autoOpenPlatformIOIniFile": false,
+    "CodeGPT.apiKey": "OpenAI"
+  }
+}
